@@ -6,16 +6,12 @@ This repository reflects my hands-on practice, consistency, and growth as a deve
 ---
 
 ## 📌 Project One: Counter App 🔢  
-A simple project focused on understanding **state handling, user interaction, and UI updates**.
-
 📸 **Preview:**  
 <img width="1058" height="614" alt="Counter App Preview" src="https://github.com/user-attachments/assets/eb67a90f-f8fe-4942-a112-09d784699e91" />
 
 ---
 
 ## 📌 Project Two: ToDo App 📝  
-A complete ToDo application built to practice **logic building, UI flow, and CRUD-style interactions**.
-
 📸 **Preview:**  
 <img width="1684" height="795" alt="ToDo App Preview" src="https://github.com/user-attachments/assets/1f5f6a0b-40bc-4019-8d99-a17bbe675540" />
 
