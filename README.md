@@ -17,6 +17,12 @@ This repository reflects my hands-on practice, consistency, and growth as a deve
 
 ---
 
+## 📌 Project Three: Background Color Changer App 📝  
+📸 **Preview:**  
+<img width="1653" height="888" alt="image" src="https://github.com/user-attachments/assets/06af346e-b656-4bfc-a3bf-91faaff92c3a" />
+
+---
+
 ## 🛠️ Tech Stack Used  
 - 🌐 HTML  
 - 🎨 CSS / Tailwind CSS  
